@@ -1,0 +1,1 @@
+free memory: 9257476096 Architecture of CPU: x64 Version: Windows 10 Pro
